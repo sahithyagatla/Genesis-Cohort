@@ -1,6 +1,6 @@
 # Genesis-Cohort
 
-## SQL Assignment - Day 2
+## SQL Assignment - Day 1
 
 Today I completed my first SQL assignment using Databricks Community Edition.
 
